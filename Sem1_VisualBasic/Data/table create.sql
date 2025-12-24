@@ -108,5 +108,59 @@ SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 
-SELECT * FROM USER;
-SELECT * FROM CLOTHES_TYPE;
+INSERT INTO `user` (username, password, role) VALUES
+('admin', 'admin123', 'admin'),
+('nhanvien1', '123456', 'staff'),
+('nhanvien2', '123456', 'staff');
+
+
+
+INSERT INTO clothes_type (name) VALUES
+('Ao thun'),
+('Ao so mi'),
+('Quan jean'),
+('Quan tay'),
+('Vay'),
+('Dam'),
+('Ao khoac');
+
+
+INSERT INTO clothes (name, typeID, size, color, price, quantity) VALUES
+('Ao thun tron', 1, 'M', 'trang', 150000, 50),
+('Ao thun in hinh', 1, 'L', 'den', 180000, 40),
+('Ao so mi tay dai', 2, 'M', 'xanh', 250000, 30),
+('Ao so mi ngan tay', 2, 'L', 'trang', 230000, 25),
+
+('Quan jean xanh', 3, 'L', 'xanh', 350000, 20),
+('Quan jean den', 3, 'M', 'den', 360000, 15),
+
+('Quan tay nam', 4, 'L', 'xam', 400000, 10),
+
+('Vay ngan', 5, 'M', 'hong', 320000, 18),
+('Dam dai', 6, 'L', 'do', 450000, 12),
+
+('Ao khoac du', 7, 'XL', 'den', 500000, 8);
+
+
+INSERT INTO bill (customerName, userID) VALUES
+('Nguyen Van A', 2),
+('Tran Thi B', 2),
+('Le Van C', 3);
+
+
+INSERT INTO bill_detail (billID, clothesID, quantity, price) VALUES
+(1, 1, 2, 150000),
+(1, 5, 1, 350000),
+
+(2, 3, 1, 250000),
+(2, 8, 1, 320000),
+
+(3, 2, 3, 180000),
+(3, 6, 1, 360000);
+
+
+SELECT * FROM user;
+SELECT * FROM clothes_type;
+SELECT * FROM clothes;
+SELECT * FROM bill;
+SELECT * FROM bill_detail;

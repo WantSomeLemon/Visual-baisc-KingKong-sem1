@@ -55,7 +55,9 @@ D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.Resources.resources
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.vbproj.GenerateResource.cache
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.vbproj.CoreCompileInputs.cache
-D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.vbproj.CopyComplete
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.exe
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.xml
 D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesMangament.pdb
+D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\obj\Debug\ClothesM.BC517441.Up2Date
+D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\bin\Debug\BouncyCastle.Crypto.dll
+D:\KingKongUniversity\Project\Sem1_VisualBasic\Sem1_VisualBasic\ClothesMangament\ClothesMangament\bin\Debug\BouncyCastle.Crypto.xml

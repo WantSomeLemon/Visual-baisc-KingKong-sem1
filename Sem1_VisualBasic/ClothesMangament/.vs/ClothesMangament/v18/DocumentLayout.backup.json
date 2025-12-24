@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\loginregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\loginregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\loginregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\loginregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\menudashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\menudashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\bill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\bill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\bill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\bill.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\menudashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|solutionrelative:clothesmangament\\menudashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ClothesMangament||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294890F2-F803-456E-B602-CE225CD11324}|ClothesMangament\\ClothesMangament.vbproj|d:\\kingkonguniversity\\project\\sem1_visualbasic\\sem1_visualbasic\\clothesmangament\\clothesmangament\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRegister.vb",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\LoginRegister.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\LoginRegister.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\LoginRegister.vb",
+              "RelativeToolTip": "ClothesMangament\\LoginRegister.vb",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:35:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuDashboard.vb",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\MenuDashboard.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\MenuDashboard.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\MenuDashboard.vb",
+              "RelativeToolTip": "ClothesMangament\\MenuDashboard.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:33:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuDashboard.vb [Design]",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\MenuDashboard.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\MenuDashboard.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\MenuDashboard.vb [Design]",
+              "RelativeToolTip": "ClothesMangament\\MenuDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:33:40.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.vb",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\Bill.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\Bill.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\Bill.vb",
+              "RelativeToolTip": "ClothesMangament\\Bill.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:17:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.vb [Design]",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\Bill.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\Bill.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\Bill.vb [Design]",
+              "RelativeToolTip": "ClothesMangament\\Bill.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:17:48.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClothesMangament",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\ClothesMangament.vbproj",
+              "RelativeDocumentMoniker": "ClothesMangament\\ClothesMangament.vbproj",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\ClothesMangament.vbproj",
+              "RelativeToolTip": "ClothesMangament\\ClothesMangament.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-24T19:08:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRegister.vb [Design]",
+              "DocumentMoniker": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\LoginRegister.vb",
+              "RelativeDocumentMoniker": "ClothesMangament\\LoginRegister.vb",
+              "ToolTip": "D:\\KingKongUniversity\\Project\\Sem1_VisualBasic\\Sem1_VisualBasic\\ClothesMangament\\ClothesMangament\\LoginRegister.vb [Design]",
+              "RelativeToolTip": "ClothesMangament\\LoginRegister.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T19:08:11.914Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

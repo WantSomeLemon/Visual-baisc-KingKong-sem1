@@ -11,14 +11,17 @@
     End Sub
 
     Private Sub btClothes_Click(sender As Object, e As EventArgs) Handles btClothes.Click
+        'Me.Hide()
         Clothes.Show()
     End Sub
 
     Private Sub btClothesTypes_Click(sender As Object, e As EventArgs) Handles btClothesTypes.Click
+        'Me.Hide()
         ClothesType.Show()
     End Sub
 
     Private Sub btBills_Click(sender As Object, e As EventArgs) Handles btBills.Click
+        'Me.Hide()
         Bill.Show()
     End Sub
 
